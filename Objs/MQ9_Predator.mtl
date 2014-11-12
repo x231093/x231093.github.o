@@ -1,0 +1,60 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.11.2014 22:45:15
+
+newmtl mq_9
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.7529 0.7529 0.7529
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Texturas\predator.jpg
+	map_Kd Texturas\predator.jpg
+	
+
+newmtl mq_90
+	Ns 8.2967
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9900 0.9900 0.9900
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Texturas\predator.jpg
+	map_Kd Texturas\predator.jpg
+	
+
+newmtl Material__69
+	Ns 12.1257
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+        map_Ka Texturas\predator.jpg
+	map_Kd Texturas\predator.jpg
+
+newmtl _6___Default
+	Ns 8.6274
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Texturas\missile.jpg
+	map_Kd Texturas\missile.jpg

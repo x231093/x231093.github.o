@@ -1,0 +1,45 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.11.2014 18:06:52
+
+newmtl plane
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.7529 0.7529 0.7529
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Texturas/EA-6B_Prowler_P01.jpg
+	map_Kd Texturas/EA-6B_Prowler_P01.jpg
+	map_bump -bm 0.0200 Texturas/EA-6B_Prowler_N.jpg
+
+newmtl pilot
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.7529 0.7529 0.7529
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Texturas/Pilot_usa.jpg
+	map_Kd Texturas/Pilot_usa.jpg
+
+newmtl glass
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.7529 0.7529 0.7529
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Texturas/Glass_CockpitEA-68.jpg
+	map_Kd Texturas/Glass_CockpitEA-68.jpg
